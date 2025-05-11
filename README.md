@@ -1,6 +1,6 @@
 # **📊 Data Analytics Projects Portfolio**  
 
-A collection of **data analysis projects** showcasing my skills in **SQL, Python, Excel, Tableau/Power BI**, and statistical modeling. These projects demonstrate my ability to clean, analyze, and visualize data to extract actionable insights.  
+A collection of **data analysis projects** showcasing my skills in **SQL, Python, Excel, Tableau/Power BI/Datalens**, and statistical modeling. These projects demonstrate my ability to clean, analyze, and visualize data to extract actionable insights.  
 
 ## **🔍 Projects Included**  
 - **Exploratory Data Analysis (EDA)** – Cleaning and analyzing datasets using Python (Pandas, NumPy, Matplotlib/Seaborn).  
